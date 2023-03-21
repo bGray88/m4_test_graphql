@@ -7,13 +7,13 @@ module Types
     # Add root-level fields here.
     # They will be entry points for queries on your schema.
 
-    field :items,
+    field :items, 
     [Types::ItemType],
-    null: false,
+    null: false, 
     description: "Return a list of items"
 
     def items
       Item.all
-    end
+    end 
   end
 end
