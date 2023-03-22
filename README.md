@@ -213,7 +213,7 @@
 [Postgres-url]: https://www.postgresql.org/
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
-[Graphql]: https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql
+[Graphql]: https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql
 [Graphql-url]: https://graphql.org/
-[CircleCI]: https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white
+[CircleCI]: https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat&logo=circleci&logoColor=white
 [CircleCI-url]: https://circleci.com/
