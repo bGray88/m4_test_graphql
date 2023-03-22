@@ -159,19 +159,12 @@
 
   ### Project Managers-Instructors
 
-  1. Meg Stang
-  2. Mike Dao
-  3. Brian Zanti
+  1. Juliet Eyraud
+  2. Brian Zanti
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   ## Acknowledgments
-
-* [Edamam](https://www.edamam.com/): Leading provider of nutrition data and analytics
-* [REST Country](https://restcountries.com/): Country Information
-* [YouTube](https://www.youtube.com/): Lose yourself in cat videos
-* [Places](https://developers.google.com/maps/documentation/places/web-service): Get location data for over 200 million places, and add place details, search, and autocomplete to your apps
-* [Unsplash](https://unsplash.com/): Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
