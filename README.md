@@ -47,7 +47,8 @@
 
   ### Built With
 
-  [![Ruby]][Ruby-url] [![Rails]][Rails-url][![Postgres]][Postgres-url] [![Postman]][Postman-url] [![Graphql]][Graphql-url]
+  [![Ruby]][Ruby-url] [![Rails]][Rails-url][![Postgres]][Postgres-url]
+  [![Postman]][Postman-url] [![Graphql]][Graphql-url] [![CircleCI]][CircleCI-url]
 
   ### Roadmap
   <details>
@@ -124,38 +125,7 @@
 
   - Root directory: 'http://localhost:3000'
   - Try it now: <br>
-  'http://localhost:3000/api/v1/recipes?country=russia'<br>
-  'http://localhost:3000/api/v1/learning_resources?country=laos'<br>
-
-  - /recipes
-  - Recipes by country
-    - GET recipes?country="country"
-      - Returns a list of recipes related to the country sent
-      ![alt text](app/assets/images/readme_recipes_cntry_get.png)
-
-  - /learning_resources
-  - Learning Resources for country
-    - GET learning_resources?country="country"
-      - Returns a collection of a single video and 10 images related to the country sent
-      ![alt text](app/assets/images/readme_learningresources_cntry_get.png)
-  
-  - /users
-  - Users for experience
-    - POST register
-      - Returns a created user
-      ![alt text](app/assets/images/readme_users_post.png)
-
-  - /favorites
-  - Favorites for user integration with resources
-    - POST favorites
-      - Returns a status message and joins user to favorite
-      ![alt text](app/assets/images/readme_favorites_post.png)
-  
-  - /favorites
-  - Favorites for user integration with resources
-    - GET favorites
-      - Returns a list of user favorites
-      ![alt text](app/assets/images/readme_favorites_get.png)
+  'http://localhost:3000/graphiql'<br>
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
