@@ -1,0 +1,425 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/models/user.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/models/item.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/models/artist.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/node_type.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_field.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_input_object.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_enum.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_interface.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/artist_type.rb": {
+        "lines": [
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/item_type.rb": {
+        "lines": [
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_connection.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_edge.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_scalar.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/mutation_type.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/query_type.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_argument.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_object.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/base_union.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/types/user_type.rb": {
+        "lines": [
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/mutations/base_mutation.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/mutations/create_user.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/graphql/test_graphql_schema.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/brandongray/Documents/Workspace/turing_work/3mod/practice/test_graphql/app/controllers/graphql_controller.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1679448029
+  }
+}
