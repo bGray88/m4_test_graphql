@@ -89,11 +89,7 @@
   #### API Keys Required:
 
   ```sh
-  Edamam APP_ID
-  Edamam APP_KEY
-  YouTube API_KEY
-  Unsplash CLIENT_ID
-  Places API_KEY
+  
   ```
 
   ### Installation
