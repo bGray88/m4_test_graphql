@@ -7,13 +7,22 @@ module Types
     # Add root-level fields here.
     # They will be entry points for queries on your schema.
 
-    field :items, 
+    field :items,
     [Types::ItemType],
-    null: false, 
+    null: false,
     description: "Return a list of items"
-
     def items
       Item.all
-    end 
+    end
+
+    field :items_find,
+    [Types::ItemType],
+    null: false,
+    description: "Return a list of matching items" do
+      argument :title, String, required: true
+    end
+    def items_find(title:)
+      Item.where("title ILIKE ?", "%#{title}%")
+    end
   end
 end
