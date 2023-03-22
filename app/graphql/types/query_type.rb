@@ -24,5 +24,15 @@ module Types
     def items_find(title:)
       Item.where("title ILIKE ?", "%#{title}%")
     end
+
+    field :user,
+    Types::UserType,
+    null: false,
+    description: "Return a matching user" do
+      argument :id, ID, required: true
+    end
+    def user(id:)
+      User.find(id)
+    end
   end
 end
